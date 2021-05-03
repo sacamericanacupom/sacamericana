@@ -1,0 +1,19 @@
+<html>
+<head>
+<title></title>
+</head>
+  
+<body>
+
+<script language=”javascript”>
+function dimensionar() {
+// Comprimento, altura
+window.resizeTo(400, 300);
+}
+// monitora o evento click() do mouse
+document.onclick = dimensionar;
+</script>
+<p><img src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/Design%20sem%20nome%20%282%29.png" style="height:108px; width:1296px" /><img alt="" src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/Capturar123.PNG" style="height:357px; width:1296px" /><img src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/destaque_maes-21_desk_V21.png" style="height:325px; width:1296px" /><img src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/R%24500%20%284%29.png" style="height:117px; width:1296px" /><img src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/precosamericana.png" style="height:472px; width:1296px" /><img src="https://empiricusimagens.s3.amazonaws.com/email-seg-info/conscientizacao/amaricanaphishing/Design%20sem%20nome%20%282%29.png" style="height:108px; width:1296px" /></p>
+
+</body>
+</html>
